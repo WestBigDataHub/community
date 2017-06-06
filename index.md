@@ -4,16 +4,28 @@ layout: default
 
 # [Formal working groups](working-groups.html)
 
-Link to specific working groups here.
+The West Big Data Hub supports several working groups around
+transportation, water, hub governance, and hub communication.
+Follow the links below for more information on each group.
 
-# Ad-hoc focus and interest groups
+* Transportation
+* Water
+* Hub governance
+* Hub communication
 
-Unofficial community groups go here.
+# [Ad-hoc focus and interest groups](ad-hoc-interest.html)
+
+Find people, groups, and institutions with shared interests!
+
+You can see a list of focus and interest groups [here](...),
+and [please submit your own!](ad-hoc-posting-guidelines.md)
 
 # Connect with others!
 
-Guidelines for event announcements -> e-mail.
+We are happy to send event announcements to our mailing list!
+[Please see our guidelines.](event-annc-guidelines.md)
 
-Request for speakers -> internal discussion.
+Hosting a Big Data workshop or conference and need speakers?
+[Ask us for recommendations!](speaker-request-guidelines.md)
 
-Request for training -> internal discussion.
+Interested in training? [Maybe we can help!](training-information.md)
