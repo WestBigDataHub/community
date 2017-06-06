@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Formal working groups
+# [Formal working groups](working-groups.html)
 
-"Official" committees and working groups go here.
+Link to specific working groups here.
 
 # Ad-hoc focus and interest groups
 
