@@ -11,5 +11,4 @@ The event should be:
 If your event fits these criteria or you have questions, please
 contact someone@somewhere.org and we will get back to you!
 
-Note that our announcements are not endorsements of the event!
-
+(Note that our announcements are not endorsements of the event.)

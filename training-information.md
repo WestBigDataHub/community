@@ -2,6 +2,6 @@
 
 Interested in hosting a workshop? Want to attend a workshop?
 
-More information here.
+(More information here.)
 
-To connect with training opportunities, contact someone@somewhere.org.
+For help with training opportunities, contact someone@somewhere.org.

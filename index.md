@@ -8,10 +8,13 @@ The West Big Data Hub supports several working groups around
 transportation, water, hub governance, and hub communication.
 Follow the links below for more information on each group.
 
-* Transportation
-* Water
-* Hub governance
-* Hub communication
+* Metro Data Science Focus Area (Focus Area)
+* Precision Medicine (Focus Area)
+* Managing Natural Resources and Hazards (Focus Area)
+* Big Data Technology (Focus Area)
+* Data-enabled Scientific Discovery and Learning (Focus Area)
+* Hub governance (Steering)
+* Hub communication (Steering)
 
 # [Ad-hoc focus and interest groups](ad-hoc-interest.html)
 
