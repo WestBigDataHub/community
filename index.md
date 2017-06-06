@@ -17,15 +17,15 @@ Follow the links below for more information on each group.
 
 Find people, groups, and institutions with shared interests!
 
-You can see a list of focus and interest groups [here](...),
-and [please submit your own!](ad-hoc-posting-guidelines.md)
+You can see a list of focus and interest groups [here](ad-hoc-interest.html),
+and [please submit your own!](ad-hoc-posting-guidelines.html)
 
 # Connect with others!
 
 We are happy to send event announcements to our mailing list!
-[Please see our guidelines.](event-annc-guidelines.md)
+[Please see our guidelines.](event-annc-guidelines.html)
 
 Hosting a Big Data workshop or conference and need speakers?
-[Ask us for recommendations!](speaker-request-guidelines.md)
+[Ask us for recommendations!](speaker-request-guidelines.html)
 
-Interested in training? [Maybe we can help!](training-information.md)
+Interested in training? [Maybe we can help!](training-information.html)
