@@ -1,6 +1,6 @@
 # Ad-hoc interest and focus groups
 
-[How to add your group!](https://westbigdatahub.github.io/ad-hoc-posting-guidelines.html)
+[How to add your group!](ad-hoc-posting-guidelines.html)
 
 This is where links out to other people, groups, etc. will go.  Here's
 a thought for a draft template that groups would be expected to fill
